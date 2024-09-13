@@ -1,4 +1,5 @@
 <?php
+// Connection de la base de donner
 define("ROOT","HTTP://localhost/TRAINING/public");
 define("DBNAME", "inscription");
 define("DBHOST", "localhost");
