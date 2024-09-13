@@ -1,4 +1,5 @@
 <?php
+// The second feature
 define("ROOT","HTTP://localhost/TRAINING/public");
 define("DBNAME", "inscription");
 define("DBHOST", "localhost");
