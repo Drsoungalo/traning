@@ -7,3 +7,4 @@ require_once("App.php");
 spl_autoload_register(function($class){
     require_once("app/models/".ucfirst($class).".php");
 });
+// feature B
