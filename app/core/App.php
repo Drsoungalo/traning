@@ -1,5 +1,5 @@
 <?php
-
+// classe APP
 class App
 {
    protected  $controller="Homes";
